@@ -1,2 +1,2 @@
 # desafio_1.perfil-Alura
-ode colocarei todos os exercícios do alura careira Java
+Onde eu coloco-o os desafio da trilha de Java quer eu fiz
